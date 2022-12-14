@@ -12,6 +12,9 @@ pip install flask
 pip install pydub
 ```
 
+## Screenshots
+
+<img src = "ss.jpg.png">
 
 ## Usage 
 
